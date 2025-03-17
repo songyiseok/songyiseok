@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/songyiseok?tab=repositories](https://github.com/songyiseok?tab=repositories)
 
-- 📫 How to reach me **ssi0685@naver.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/10fq2jqK3jjBc8g6501XMq0wOAKbppCNU/view?usp=drive_link](https://drive.google.com/file/d/10fq2jqK3jjBc8g6501XMq0wOAKbppCNU/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
