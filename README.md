@@ -6,9 +6,11 @@
 - 👨‍💻 All of my projects are available at [https://github.com/songyiseok?tab=repositories](https://github.com/songyiseok?tab=repositories)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10fq2jqK3jjBc8g6501XMq0wOAKbppCNU/view?usp=drive_link](https://drive.google.com/file/d/10fq2jqK3jjBc8g6501XMq0wOAKbppCNU/view?usp=drive_link)
+- Link to my YouTube channel : [https://www.youtube.com/@sys8699](https://www.youtube.com/@sys8699)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  ssi0685@naver.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
