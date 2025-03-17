@@ -1,27 +1,20 @@
 ## Hi there 👋
 
-<h2>🔭 I’m currently working on ...</h2>
-<p>Developing a new web application for smart contracts.</p>
+<h1 align="center">Hi 👋, I'm songyiseok</h1>
+<h3 align="center">안녕하세요, 다채로운 색깔로 세상을 물들이는 카멜레온 같은 백엔드 개발자 석송이입니다.</h3>
 
-<h2>🌱 I’m currently learning ...</h2>
-<p>Blockchain development, AI-powered web applications, and advanced JavaScript.</p>
+- 🌱 I’m currently learning **인공지능 서비스 기반 웹개발**
 
-<h2>👯 I’m looking to collaborate on ...</h2>
-<p>Open-source projects related to web development and AI.</p>
+- 👨‍💻 All of my projects are available at [https://github.com/songyiseok?tab=repositories](https://github.com/songyiseok?tab=repositories)
 
-<h2>🤔 I’m looking for help with ...</h2>
-<p>Improving my DevOps skills and setting up scalable cloud infrastructure.</p>
+- 📫 How to reach me **ssi0685@naver.com**
 
-<h2>💬 Ask me about ...</h2>
-<p>Full-stack development, JavaScript frameworks, and AI integration.</p>
+- 📄 Know about my experiences [https://drive.google.com/file/d/10fq2jqK3jjBc8g6501XMq0wOAKbppCNU/view?usp=drive_link](https://drive.google.com/file/d/10fq2jqK3jjBc8g6501XMq0wOAKbppCNU/view?usp=drive_link)
 
-<h2>📫 How to reach me: ...</h2>
-<p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-<p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">LinkedIn Profile</a></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<h2>😄 Pronouns: ...</h2>
-<p>He/Him | She/Her | They/Them</p>
-
-<h2>⚡ Fun fact: ...</h2>
-<p>I love solving coding challenges and experimenting with new technologies.</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
